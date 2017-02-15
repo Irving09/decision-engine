@@ -1,12 +1,11 @@
 /**
- * AOL CONFIDENTIAL INFORMATION
- *
- * Date: Feb 14, 2017
- *
- * Copyright 2017 AOL, Inc.
+ * CONFIDENTIAL INFORMATION
  *
  * All Rights Reserved.  Unauthorized reproduction, transmission, or
  * distribution of this software is a violation of applicable laws.
+ *
+ * Date: Feb 15, 2017
+ * Copyright 2017 innoirvinge@gmail.com
  */
 package com.tcss558.configuration;
 
@@ -18,7 +17,7 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
 /**
- * @author iestrera <inno.estrera@teamaol.com>
+ * @author irving09 <innoirvinge@gmail.com>
  */
 @Configuration
 public class ApplicationConfig {
